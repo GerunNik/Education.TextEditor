@@ -1,0 +1,10 @@
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AdvancedTextEditor\AdvancedTextEditor\bin\Debug\AdvancedTextEditor.exe.config
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AdvancedTextEditor\AdvancedTextEditor\bin\Debug\AdvancedTextEditor.exe
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AdvancedTextEditor\AdvancedTextEditor\bin\Debug\AdvancedTextEditor.pdb
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AdvancedTextEditor\AdvancedTextEditor\obj\Debug\AdvancedTextEditor.csprojAssemblyReference.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AdvancedTextEditor\AdvancedTextEditor\obj\Debug\AdvancedTextEditor.AdvancedTextEditor.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AdvancedTextEditor\AdvancedTextEditor\obj\Debug\AdvancedTextEditor.Properties.Resources.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AdvancedTextEditor\AdvancedTextEditor\obj\Debug\AdvancedTextEditor.csproj.GenerateResource.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AdvancedTextEditor\AdvancedTextEditor\obj\Debug\AdvancedTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AdvancedTextEditor\AdvancedTextEditor\obj\Debug\AdvancedTextEditor.exe
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AdvancedTextEditor\AdvancedTextEditor\obj\Debug\AdvancedTextEditor.pdb
